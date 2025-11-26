@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="docker_container_procjet1:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/docker_container_procjet1_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="docker_container_procjet1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="docker_container_procjet1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
